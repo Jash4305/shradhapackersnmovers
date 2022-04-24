@@ -1,0 +1,156 @@
+[2022-03-20 17:06:06] ERROR [Database:289] Can&#039;t create table `bitnami_wordpress`.`wp_glsr_assigned_users` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-03-20 17:06:06] DEBUG [S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\helpers.php:242] Array
+(
+    [0] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\helpers.php
+            [line] =&gt; 242
+            [function] =&gt; trace
+            [class] =&gt; GeminiLabs\SiteReviews\Modules\Backtrace
+            [type] =&gt; -&gt;
+        )
+
+    [1] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database.php
+            [line] =&gt; 290
+            [function] =&gt; glsr_trace
+        )
+
+    [2] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database.php
+            [line] =&gt; 92
+            [function] =&gt; logErrors
+            [class] =&gt; GeminiLabs\SiteReviews\Database
+            [type] =&gt; -&gt;
+        )
+
+    [3] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database\SqlSchema.php
+            [line] =&gt; 134
+            [function] =&gt; dbQuery
+            [class] =&gt; GeminiLabs\SiteReviews\Database
+            [type] =&gt; -&gt;
+        )
+
+    [4] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database\SqlSchema.php
+            [line] =&gt; 88
+            [function] =&gt; addForeignConstraint
+            [class] =&gt; GeminiLabs\SiteReviews\Database\SqlSchema
+            [type] =&gt; -&gt;
+        )
+
+)
+
+[2022-03-20 17:06:07] ERROR [Database:289] Can&#039;t create table `bitnami_wordpress`.`wp_glsr_assigned_users` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-03-20 17:06:07] DEBUG [S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\helpers.php:242] Array
+(
+    [0] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\helpers.php
+            [line] =&gt; 242
+            [function] =&gt; trace
+            [class] =&gt; GeminiLabs\SiteReviews\Modules\Backtrace
+            [type] =&gt; -&gt;
+        )
+
+    [1] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database.php
+            [line] =&gt; 290
+            [function] =&gt; glsr_trace
+        )
+
+    [2] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database.php
+            [line] =&gt; 92
+            [function] =&gt; logErrors
+            [class] =&gt; GeminiLabs\SiteReviews\Database
+            [type] =&gt; -&gt;
+        )
+
+    [3] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database\SqlSchema.php
+            [line] =&gt; 134
+            [function] =&gt; dbQuery
+            [class] =&gt; GeminiLabs\SiteReviews\Database
+            [type] =&gt; -&gt;
+        )
+
+    [4] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database\SqlSchema.php
+            [line] =&gt; 95
+            [function] =&gt; addForeignConstraint
+            [class] =&gt; GeminiLabs\SiteReviews\Database\SqlSchema
+            [type] =&gt; -&gt;
+        )
+
+)
+
+[2022-03-20 17:06:08] ERROR [Database:289] Can&#039;t create table `bitnami_wordpress`.`wp_glsr_ratings` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2022-03-20 17:06:08] DEBUG [S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\helpers.php:242] Array
+(
+    [0] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\helpers.php
+            [line] =&gt; 242
+            [function] =&gt; trace
+            [class] =&gt; GeminiLabs\SiteReviews\Modules\Backtrace
+            [type] =&gt; -&gt;
+        )
+
+    [1] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database.php
+            [line] =&gt; 290
+            [function] =&gt; glsr_trace
+        )
+
+    [2] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database.php
+            [line] =&gt; 92
+            [function] =&gt; logErrors
+            [class] =&gt; GeminiLabs\SiteReviews\Database
+            [type] =&gt; -&gt;
+        )
+
+    [3] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database\SqlSchema.php
+            [line] =&gt; 134
+            [function] =&gt; dbQuery
+            [class] =&gt; GeminiLabs\SiteReviews\Database
+            [type] =&gt; -&gt;
+        )
+
+    [4] =&gt; Array
+        (
+            [file] =&gt; S:\softwares\wordpress\files\apps\wordpress\htdocs\wp-content\plugins\site-reviews\plugin\Database\SqlSchema.php
+            [line] =&gt; 110
+            [function] =&gt; addForeignConstraint
+            [class] =&gt; GeminiLabs\SiteReviews\Database\SqlSchema
+            [type] =&gt; -&gt;
+        )
+
+)
+
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_3_0_0] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_4_0_2] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_4_4_0] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_4_5_0] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_5_0_0] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_5_2_0] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_5_3_0] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_5_9_0] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_5_10_3] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_5_11_0] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_5_14_0] has run successfully
+[2022-03-20 17:06:09] DEBUG [Modules\Migrate:163] [Migrate_5_19_0] has run successfully
